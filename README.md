@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to the I3A Initiative
 
-<!--
-**Malko-I3A/Malko-I3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I3A is a modular cognitive framework for autonomous AI agents capable of 
+self-optimization, distributed reasoning and emergent architecture evolution.
 
-Here are some ideas to get you started:
+⚙️ Current focus: Noese — a live cognitive ecosystem with 
+differentiated agents, internal orchestration and structural creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coming soon:
+- I3A whitepaper + architecture overview
+- Developer toolkit for agent instantiation
+- Cognitive Dataset generator
+- Public demos and research logs
